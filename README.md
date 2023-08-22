@@ -1,14 +1,14 @@
-- 👋 Hi, I’m Ömer Zeyveli
-- 👀 I’m skilled in Blender, also trying to learn Front-End development and C#
-- 🌱 I’m currently studying for University Exam
-- 💞️ I’m looking to collaborate with my friends for now
+- 👋 Hi, I’m Ömer Zeyveli.
+- 👀 I’m skilled in Blender and Front-End development.
+- 🌱 I’m currently studying at the FSM Computer Engineering University
+- 💞️ I’m looking to collaborate with my friends for now.
 - 📫 How to reach me: omer.zeyveli@gmail.com
 
 - (tr)
 - 👋 Selam, Ben Ömer Zeyveli
-- 👀 Blender'da tecrübeliyim, ve önyüz web tasarımı (Front-End) ile C# öğrenmeye çalışıyorum
-- 🌱 Şu anda Üniversite Sınavına çalışıyorum
-- 💞️ Şimdilik arkadaşlarımla beraber çalışmayı planlıyorum
+- 👀 Blender'da ve önyüz web tasarımında (Front-End) tecrübeliyim.
+- 🌱 Şu anda FSM Üniversitesi Bilgisayar Mühendisliği bölümünde okuyorum.
+- 💞️ Şimdilik arkadaşlarımla beraber çalışmayı planlıyorum.
 - 📫 Bana ulaşmak için: omer.zeyveli@gmail.com
 
 <!---
