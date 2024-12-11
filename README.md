@@ -1,9 +1,10 @@
-- 👋 Hi, I’m Ömer (Riive) Zeyveli.
-- 👀 I’m junior game dev.
-- 🌱 I’m currently studying computer engineering at university.
-- 📫 How to reach me: omer.zeyveli@gmail.com
+<div align="center">
+<img align="center" src="https://github-readme-stats.vercel.app/api?username=TinLite&count_private=true&show_icons=true&theme=github_dark"/>
+</div>
 
-<!---
-OmerZeyveli/OmerZeyveli is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+## About me
+
+- I’m Ömer (Riive) Zeyveli.
+- Junior game dev.
+- Currently studying computer engineering at university.
+- To reach me: omer.zeyveli@gmail.com
