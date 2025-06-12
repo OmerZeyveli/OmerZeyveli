@@ -7,5 +7,3 @@
 
 - I’m Ömer (Riive) Zeyveli.
 - Junior game dev.
-- Currently studying computer engineering at university.
-- To reach me: omer.zeyveli@gmail.com
