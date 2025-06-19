@@ -6,4 +6,4 @@
 ## About me
 
 - I’m Ömer (Riive) Zeyveli.
-- Junior game dev and pytorch develloper.
+- Junior game dev and ai developer.
